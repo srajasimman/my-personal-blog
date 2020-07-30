@@ -34,7 +34,7 @@ cover = "/img/hello.jpg"
   [languages.en]
     title = "Hello Friend"
     subtitle = "A simple theme for Hugo"
-    keywords = ""
+    keywords = "blog"
     copyright = ""
     menuMore = "Show more"
     writtenBy = "Written by"
